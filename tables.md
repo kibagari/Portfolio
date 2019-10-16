@@ -1,11 +1,12 @@
-**Autumn Raven Crafts** <br>
+## Autumn Raven Crafts
+
 This is a snippet of SQL designed to create a couple of tables in a database for a small crafting business that makes custom vinyl prints
 adheres them to t-shirts, bags, or used as decals on vehicles. One of the tables is used to keep inventory of available vinyls in different
 colors and transfer types.  The other table is for storing customer information.
 
 
 
-``` SQL
+```
 CREATE DATABASE AutumnRavenCrafts;
 
 CREATE TABLE IF NOT EXISTS `AutumnRavenCrafts`.`Inventory` (
