@@ -7,6 +7,7 @@ colors and transfer types.  The other table is for storing customer information.
 
 
 ```SQL
+
 CREATE DATABASE AutumnRavenCrafts;
 
 CREATE TABLE IF NOT EXISTS `AutumnRavenCrafts`.`Inventory` (
@@ -28,4 +29,5 @@ CREATE TABLE IF NOT EXISTS `AutumnRavenCrafts`.`Customer` (
   `Email` VARCHAR(45) NULL,
   `Phone Number` VARCHAR(10) NULL,
   PRIMARY KEY (`idCustomer`));
+  
 ```
