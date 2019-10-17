@@ -31,3 +31,6 @@ def gen_fib():
 print(gen_fib())
 ```
 
+A sample output is provided below:
+
+![Image of Fib](https://kibagari.github.io/Portfolio/images/fib.png)
