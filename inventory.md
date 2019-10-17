@@ -31,5 +31,5 @@ for x, y in currency.items():
 
 The output of this script appears in the image:
 
-![Image of Inventory]()
+![Image of Inventory](https://kibagari.github.io/Portfolio/images/inventory.png)
 
