@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS `AutumnRavenCrafts`.`Customer` (
   `State` VARCHAR(45) NULL,
   `Zip` VARCHAR(45) NULL,
   `Email` VARCHAR(45) NULL,
-  `Phone Number` VARCHAR(10) NULL,
+  `PhoneNumber` VARCHAR(10) NULL,
   PRIMARY KEY (`idCustomer`));
   
 ```
