@@ -29,3 +29,7 @@ for x, y in currency.items():
     print(x, y)
 ```
 
+The output of this script appears in the image:
+
+![Image of Inventory]()
+
