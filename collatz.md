@@ -21,3 +21,4 @@ print(collatz(i))
 
 A sample output is provided:
 
+![Image of Collatz](https://kibagari.github.io/Portfolio/images/collatz.png)
